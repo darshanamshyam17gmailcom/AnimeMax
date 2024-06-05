@@ -1,0 +1,95 @@
+.anime-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.anime-image-container {
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.anime-image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.anime-description-container {
+    margin-bottom: 20px;
+}
+
+.anime-description-container h2 {
+    margin-top: 0;
+}
+
+.episode-container {
+    margin-bottom: 20px;
+}
+
+.episode-list-container {
+    overflow-y: auto;
+    max-height: 200px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+}
+
+.episode-list-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.episode-list-container li {
+    margin-bottom: 10px;
+}
+
+.episode-list-container button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.episode-list-container button:hover {
+    background-color: #3e8e41;
+}
+
+#episodes-button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+}
+
+#episodes-button:hover {
+    background-color: #3e8e41;
+}
+
+#first-episode-button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#last-episode-button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}

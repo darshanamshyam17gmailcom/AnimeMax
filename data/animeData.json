@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "title": "Naruto",
+        "description": "A young ninja strives to be the strongest and earn the title of Hokage.",
+        "image": "/images/naruto.jpg",
+        "episodes": [
+            {"number": 1, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 2, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 3, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"}
+        ]
+    },
+    {
+        "id": 2,
+        "title": "One Piece",
+        "description": "Follow Luffy and his crew as they search for the ultimate treasure, the One Piece.",
+        "image": "/images/onepiece.jpg",
+        "episodes": [
+            {"number": 1, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 2, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 3, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"}
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Attack on Titan",
+        "description": "Humanity's last stand against the monstrous Titans.",
+        "image": "/images/aot.jpeg",
+        "episodes": [
+            {"number": 1, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 2, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 3, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"}
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Bay Blade Original",
+        "description": "Follow Izuku Midoriya and his journey to become the greatest hero.",
+        "image": "/images/bb.jpg",
+        "episodes": [
+            {"number": 1, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 2, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 3, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"}
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Naruto Shippuden",
+        "description": "A young ninja strives to be the strongest and earn the title of Hokage.Season 2 i dont know",
+        "image": "/images/deathnote.jpg",
+        "episodes": [
+            {"number": 1, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 2, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"},
+            {"number": 3, "link": "https://www.youtube.com/embed/IcwbpceL1JY?si=OEv9z3LJ3sXaBzpM"}
+        ]
+    }
+    ]

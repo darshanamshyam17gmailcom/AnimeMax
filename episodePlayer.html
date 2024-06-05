@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anime Player</title>
+    <link rel="stylesheet" href="/Css/common.css">
+    <link rel="stylesheet" href="/Css/episodePlayer.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="logo"><img src="/images/logo.png" alt=""></div>
+            <div class="reveal-animation">AnimeStream2.0</div>
+        </div>
+        <!-- Navigation Bar -->
+        <nav>
+            <ul>
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/Nav/category.html">Genres &amp; Categoris</a></li>
+                <li><a href="/Nav/animeList.html">Anime List</a></li>
+                <li><a href="/Nav/privacyPolicy.html">Privacy Policy</a></li>
+                <li><a href="/Nav/contactUs.html">Contact Us</a></li>
+
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="episode-player-container">
+            <!-- Display the anime title and episode number -->
+            <h2 id="anime-title"></h2>
+            <p id="episode-number"></p>
+
+            <!-- Display the episode video -->
+            <iframe id="episode-iframe" width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </section>
+    </main>
+
+    <footer>
+        <!-- should be edited further -->
+        
+        <div class="footer-links">
+            <a href="/index.html">Home</a>
+            <a href="/Nav/category.html">Genres &amp; Categoris</a>
+            <a href="/Nav/animeList.html">Anime List</a>
+            <a href="/Nav/privacyPolicy.html">Privacy Policy</a>
+            <a href="/Nav/contactUs.html">Contact Us</a>
+        </div>
+        <div class="social-media">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+        </div>
+        <div class="newsletter">
+            <input type="email" placeholder="Your email...">
+            <button>Subscribe</button>
+        </div>
+        <div class="footer-content">
+            <p>© 2024 Anime <sup><b>X</b></sup> Streaming. All Rights reserved.</p>
+        </div>
+
+    </footer>
+
+    <script src="/js/common.js"></script>
+    <script src="/js/episodePlayer.js"></script>
+</body>
+</html>
